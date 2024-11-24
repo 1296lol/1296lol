@@ -1,21 +1,7 @@
-👋 Hi There!
-
-
-- 👋 Hi, I’m @1296lol, also known as @I2g61ol.
-- 👀 I love working for my boss.
-- 🌱 I’m currently learning Linux, Unity and etc.
-- 💞️ I’m collaborating on developing a new app...
-- 📫 Contact me via hh1296@foxmail.com or hh2214902964@gmail.com
-
-
 <p align="center">
   <h1 height="200px" align="center">
- Hi <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm 1296lol </h1> <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 frontend developer from China 👨‍💻</p> </p> 
-<!-- 
-  技术栈标签, 小标签来自: https://shields.io/
- 1. shields 链接格式: https://img.shields.io/badge/-{标签文本}-{标签背景色}?style={标签类型}&logo={标签前面 Logo}&logoColor={Logo 颜色}
- 2. shields 可选 Logo 列表参考: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
--->
+ Hi There!<img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm 1296lol </h1> <p align="center">An ordinary college student from China, who loves programming and anime.</p> </p> 
+
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">

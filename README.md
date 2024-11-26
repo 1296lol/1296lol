@@ -2,7 +2,7 @@
 
 <p align="center">
   <h1 height="200px" align="center">
- Hi There!<img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">I'm 1296lol ! </h1> <p align="center">An ordinary college student from China, who loves programming and anime.</p> </p> 
+ Hi There!<img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">I'm 1296lol,also called I2g61ol!</h1> <p align="center">An ordinary college student from China, who loves programming and anime.</p> </p> 
 
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">

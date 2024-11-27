@@ -18,7 +18,7 @@
 <!-- 统计卡片, see: https://github.com/anuraghazra/github-readme-stats -->
 <table align="center">
   <tr>
- <img align="center" alt="GIF" src="./assets/bkimg.gif" width="3000"/><td align="center"> <img src="https://github-readme-stats.vercel.app/api?username=1296lol&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/> </td> </tr> </table>
+ <img align="center" alt="GIF" src="https://media.githubusercontent.com/media/1296lol/1296lol/main/assets/bkimg.gif" width="3000"/><td align="center"> <img src="https://github-readme-stats.vercel.app/api?username=1296lol&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/> </td> </tr> </table>
 
 <!-- 关于我 -->
 <h2 height="200px" align="center">🎉 About Me</h2>
